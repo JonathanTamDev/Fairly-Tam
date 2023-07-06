@@ -1,0 +1,2 @@
+Fairly is a web-based talent solution application, transforming the hiring processes by providing innovative solutions to accelerate talent acquisition, streamline interviews, determine market value, and assess company fit.
+Fairly is an MVP and due to the proprietary nature of the code I can only provide snippets of my code. This repo contains SQL, .NET, and React code for the Organization Functions and Invite Member functions.
